@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: projectpage
 title: Map Jamming
-date: 2018-10-09
-tag: Jekyll
-author: Abhishek
+tag: map gps googlemaps
 categories: ["Jekyll"]
-image: "a.png"
+
 ---
 
 
