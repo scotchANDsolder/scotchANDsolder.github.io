@@ -3,5 +3,7 @@ list:
     url: ""
   - title: Experiments
     url: experiments.html
+  - title: Teaching
+    url: teaching.html
   - title: About
     url: about

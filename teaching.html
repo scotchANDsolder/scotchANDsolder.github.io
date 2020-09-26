@@ -1,0 +1,8 @@
+---
+title: Teaching
+layout: collections_layout
+---
+
+{% for teach in site.teachings %}
+<a href="{{site.baseurl}}{{teach.url}}">{{teach.title}}</a>
+{%endfor%}

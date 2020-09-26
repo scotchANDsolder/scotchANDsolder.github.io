@@ -1,4 +1,4 @@
-title: Abhishek Narula
+title: Abhishek Narula (...under construction)
 markdown: kramdown
 url: ""
 baseurl: "/scotchandsolder.github.io"
@@ -27,6 +27,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+  teachings:
+    output: true
+    permalink: /teachings/:path/
 
 
 defaults:
