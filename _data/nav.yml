@@ -1,8 +1,9 @@
 list:
   - title: Home
     url: ""
+  - title: Projects
+    url: projects
+  - title: Experiments
+    url: experiments
   - title: About
     url: about
-  - title: Feed
-    url: feed.xml
-    target: "_blank"

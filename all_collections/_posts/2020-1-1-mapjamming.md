@@ -9,4 +9,4 @@ image: "a.png"
 ---
 
 
-Map Jamming is an intervention in digital mavigation systems.
+Map Jamming is an intervention in digital navigation systems.
