@@ -1,7 +1,7 @@
 list:
   - title: Projects
-    url: "projects"
-  - title: Experiments
     url: ""
+  - title: Experiments
+    url: experiments.html
   - title: About
     url: about
