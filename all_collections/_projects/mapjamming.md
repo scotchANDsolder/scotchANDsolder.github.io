@@ -14,5 +14,5 @@ Map Jamming is an intervention in digital navigation systems. Through GPS spoofi
 
 
 
--------------------------------------------------
+
 # Intervention at Green Rd. Ann Arbor MI
